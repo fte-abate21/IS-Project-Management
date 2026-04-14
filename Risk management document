@@ -1,1 +1,25 @@
+# Risk Management Document
 
+## Identified Risks
+
+| Risk | Probability | Impact | Mitigation Strategy |
+|------|-------------|--------|---------------------|
+| Team member unavailable | Medium | High | Distribute tasks evenly and have backup plans |
+| Technical issues with Trello | Low | Medium | Use alternative tracking methods like Excel |
+| Missing deadline | Low | High | Set early reminders and weekly check-ins |
+| Poor communication | Medium | Medium | Schedule regular group meetings on Telegram |
+| GitHub learning curve | Medium | Low | Watch tutorial videos and practice |
+
+## Risk Response Plan
+
+### High Priority Risks
+- **Team member unavailable**: Each task should have a secondary responsible person
+
+### Medium Priority Risks
+- **Poor communication**: Daily updates via group chat
+
+### Low Priority Risks
+- **Technical issues**: Have backup documentation ready
+
+## Review Date
+April 20, 2026
