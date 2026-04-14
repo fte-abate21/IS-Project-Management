@@ -1,1 +1,52 @@
 
+# Final Report
+
+## 1. How Trello Helped Manage Tasks
+
+Trello provided a visual way to track project progress. The board was organized into five lists:
+- Project Ideas
+- To Do
+- In Progress
+- Testing
+- Completed
+
+Each task was created as a card with:
+- Assigned team members
+- Due dates
+- Comments and attachments
+
+By moving cards from "To Do" to "In Progress" to "Completed", we could easily see what work was done and what remained.
+
+## 2. How GitHub Supported Collaboration
+
+GitHub helped us manage project documents through:
+- **Version control**: Every change was saved as a commit, allowing us to track who made what changes
+- **Issues**: We created issues for tasks like "Preparing project schedule", "Risk analysis", and "Final report preparation"
+- **Central repository**: All documents were stored in one place accessible to all team members
+
+## 3. Benefits of Using These Tools in IS Projects
+
+### Trello Benefits
+- Simple and visual interface
+- Easy to assign tasks and set deadlines
+- Real-time updates for all team members
+- Free to use for small teams
+
+### GitHub Benefits
+- Tracks document history and changes
+- Supports collaboration without file conflicts
+- Issues help manage tasks alongside code/documentation
+- Industry standard for software development projects
+
+### Combined Benefits
+Using both tools together provides:
+- Task management (Trello) + Document management (GitHub)
+- Clear visibility of project progress
+- Professional experience with real-world tools
+
+## 4. Conclusion
+
+This project demonstrated how Trello and GitHub can be used effectively for Information Systems project management. Trello excels at task tracking and workflow visualization, while GitHub provides robust version control and documentation management. Together, they form a complete project management solution for IS projects.
+
+## Submission Date
+April 26, 2026
